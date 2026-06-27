@@ -16,7 +16,6 @@ Each lesson will have this structure:
 10. **Mini project**
 11. **Summary notes**
 
-We'll make these notes so complete that you can revise them months later.
 
 ---
 
